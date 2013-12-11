@@ -7,6 +7,6 @@ mod 'puppetlabs/java'
 
 mod 'minecraft',
   :git => 'https://github.com/adamcrews/puppet-module-minecraft.git',
-  :ref => 'pug-demo',
+  :ref => 'pug-demo'
 
 
