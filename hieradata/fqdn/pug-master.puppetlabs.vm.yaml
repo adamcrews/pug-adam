@@ -1,4 +1,4 @@
 ---
 classes:
-  - phiera::master
+  - 'phiera::master'
 
