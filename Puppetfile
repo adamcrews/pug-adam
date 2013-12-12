@@ -12,3 +12,6 @@ mod 'minecraft',
 mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/mysql'
 
+mod 'phiera',
+  :git => 'https://github.com/adamcrews/pug-hiera.git'
+
